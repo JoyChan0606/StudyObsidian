@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부하기/CS기초/훈수는 알자/메이븐이란 무엇인가.md",
+                "file": "공부하기/CS기초/훈수는 알자/새로운 지식/FORK(fork)함수.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "메이븐이란 무엇인가"
+              "title": "FORK(fork)함수"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부하기/CS기초/훈수는 알자/메이븐이란 무엇인가.md",
+                "file": "공부하기/CS기초/훈수는 알자/새로운 지식/FORK(fork)함수.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "메이븐이란 무엇인가 의 개요"
+              "title": "FORK(fork)함수 의 개요"
             }
           }
         ],
@@ -171,13 +171,17 @@
   },
   "active": "91321a5301e9d5a7",
   "lastOpenFiles": [
-    "Pasted image 20250228225059.png",
+    "Pasted image 20250228231445.png",
     "공부하기/CS기초/훈수는 알자/프레임 워크 라이브러리 차이.md",
+    "공부하기/CS기초/백엔드 훈수.md",
+    "공부하기/CS기초/훈수는 알자/새로운 지식/FORK(fork)함수.md",
+    "공부하기/CS기초/훈수는 알자/내부 프로세스간의 통신.md",
+    "공부하기/CS기초/훈수는 알자/새로운 지식",
     "공부하기/CS기초/훈수는 알자/메이븐이란 무엇인가.md",
+    "Pasted image 20250228225059.png",
     "공부하기/CS기초/훈수는 알자/Angular Js와 React Js 차이.md",
     "이미지/훈수이미지",
     "이미지/훈수이미지/Pasted image 20250228223854.png",
-    "공부하기/CS기초/백엔드 훈수.md",
     "공부하기/CS기초/훈수는 알자",
     "공부하기/CS기초/무제.md",
     "공부하기/CS기초/찾아볼자료 정리.md",
@@ -196,7 +200,6 @@
     "안녕하세요/드디어되냐.md",
     "배포",
     "새파일생성/데이터생성.md",
-    "안녕하세요",
-    "새파일생성"
+    "안녕하세요"
   ]
 }
